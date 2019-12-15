@@ -34,7 +34,4 @@ Traceback (most recent call last):
         5: from /usr/local/rvm/rubies/ruby-2.6.1/bin/irb:23:in `load'
         4: from /usr/local/rvm/rubies/ruby-2.6.1/lib/ruby/gems/2.6.0/gems/irb-1.0.0/exe/irb:11:in `<top (required)>'
         3: from (irb):12
-        2: from (irb):12:in `rescue in irb_binding'
-        1: from (irb):12:in `test'
-ArgumentError (wrong number of arguments (given 0, expected 2..3))
-2.6.1 :013 >
+        2: from (irb):12:in `rescue in irb_bi
